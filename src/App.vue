@@ -7,6 +7,8 @@ import HelloMessage from './components/HelloMessage.vue';
 
 <HelloMessage msg="Welcome to Your Vue.js App" />
 <HelloMessage msg="Welcome to Your Vue.js App Bubye" />
+<HelloMessage msg="Welcome to Your Vue.js App" />
+<HelloMessage msg="Welcome to Your Vue.js App Bubye" />
 </template>
 
 <style scoped>
